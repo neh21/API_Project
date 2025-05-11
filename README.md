@@ -67,51 +67,10 @@ Beyond focusing on a single variable, it is quite desirable to analyse whole pop
 
 In this regard, correlation analysis, principal component analysis (PCA), box plot, vector quantization (VQ), scatter plot and matrix factorization are relevant tools in this field.
 
-**Sales**
 
-![](RackMultipart20210617-4-1hq6ua7_html_1f959ce53d8737e0.png) ![](RackMultipart20210617-4-1hq6ua7_html_706514908cd8708d.png)
 
-**Plotting sales distribution plot for different stores.**
 
-![](RackMultipart20210617-4-1hq6ua7_html_de53434815820905.png)
 
-**For different stores:**
-
-![](RackMultipart20210617-4-1hq6ua7_html_40225ea818fb14a0.png)
-
-**Autocorrelation plot for store**
-
-![](RackMultipart20210617-4-1hq6ua7_html_6f12bf53a583cfd7.png)
-
-**Day of Week:**
-
-![](RackMultipart20210617-4-1hq6ua7_html_9ca758f6c3845ba2.png)
-
-**State Holiday**
-
-![](RackMultipart20210617-4-1hq6ua7_html_24e8a5e535b7d38d.png)
-
-# **Heatmap of Correlation in numerical values**
-
-![](RackMultipart20210617-4-1hq6ua7_html_4acd16cf97fd0597.png)
-
-**Model Building(TIME SERIES MODELS)**
-
-![](RackMultipart20210617-4-1hq6ua7_html_a65ec9d7b81e5447.png)
-
-![](RackMultipart20210617-4-1hq6ua7_html_3cd44f5caabe90ff.png)
-
-![](RackMultipart20210617-4-1hq6ua7_html_9c65f897c23eaf6a.png)
-
-![](RackMultipart20210617-4-1hq6ua7_html_230b9f877c4af41e.png)
-
-**Model Implementation:**
-
-![](RackMultipart20210617-4-1hq6ua7_html_5a3f97cf41b74d92.png)
-
-![](RackMultipart20210617-4-1hq6ua7_html_367dce5de1fdd3e2.png)
-
-![](RackMultipart20210617-4-1hq6ua7_html_28bd989c90f99599.png)
 
 -
 ##
